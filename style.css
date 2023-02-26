@@ -181,4 +181,5 @@ h2, p {
     justify-content: center;
     padding: 10px;
     color: white;
+    align-content: flex-end;
 }
